@@ -1,0 +1,6 @@
+Flask
+speechrecognition
+pydub
+scikit-learn
+joblib
+pandas
