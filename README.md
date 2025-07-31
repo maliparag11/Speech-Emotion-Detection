@@ -13,7 +13,7 @@ This project uses machine learning and deep learning techniques to detect **emot
 ---
 
 ## 📂 Project Structure
-Speech-Emotion-Detector/
+"'Speech-Emotion-Detector/
 ├── backend/
 │   ├── app.py
 |   ├── train_model.py
@@ -37,7 +37,7 @@ Speech-Emotion-Detector/
 |   |   └── App.js
 │   └── package.json
 └── README.md
-
+"'
 
 📸 UI Preview
 
